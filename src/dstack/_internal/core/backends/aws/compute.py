@@ -1242,6 +1242,7 @@ def _supported_instances(offer: InstanceOffer) -> bool:
         "m5.",
         "p5.",
         "p5e.",
+        "p6-b200.",
         "p4d.",
         "p4de.",
         "g7e.",
